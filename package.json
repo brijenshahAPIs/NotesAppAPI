@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Notes API",
   "main": "index.js",
+  "engines":{
+    "node": ">=14 <15"
+  },
   "scripts": {
     "start": "node src/index.js"
   },
