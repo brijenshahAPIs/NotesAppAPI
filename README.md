@@ -15,4 +15,4 @@ This application consists of Firebase Firestore Database, Firebase Authenticatio
 
 Video Presentation Link : 
 
-[![Watch the video](https://freepngimg.com/thumb/button/77819-logo-play-youtube-button-free-transparent-image-hd.png)](https://youtu.be/sV1wKZQzRwg)
+[![Watch the video](https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png)](https://youtu.be/sV1wKZQzRwg)
