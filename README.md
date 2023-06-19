@@ -15,4 +15,4 @@ This application consists of Firebase Firestore Database, Firebase Authenticatio
 
 Video Presentation Link : 
 
-[![Watch the video](https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg)](https://youtu.be/sV1wKZQzRwg)
+[![Watch the video](https://freepngimg.com/thumb/button/77819-logo-play-youtube-button-free-transparent-image-hd.png)](https://youtu.be/sV1wKZQzRwg)
